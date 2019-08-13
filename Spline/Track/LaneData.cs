@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
-public struct LaneData {
-
+public struct LaneData
+{
     [SerializeField]
     public Vector3[] points;
 

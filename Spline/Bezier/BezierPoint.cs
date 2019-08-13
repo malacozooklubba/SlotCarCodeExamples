@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public struct BezierPoint {
-
+public struct BezierPoint
+{
     public Vector3 p1;
     public Vector3 p2;
     public Vector3 p3;
