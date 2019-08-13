@@ -2,7 +2,7 @@
 {
     void Enter();
 
-    //Called one per frame
+    //Called once per frame
     void Execute();
 
     //Called once per physics update
